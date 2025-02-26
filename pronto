@@ -1,0 +1,11 @@
+ let numero = prompt ("Digite um número");
+
+  if (numero >= 0 && numero <= 9) {
+
+      alert("Este número está ente 0 e 9 ");
+
+    } else {
+
+      alert("Este número não está ente 0 e 9");
+    }
+
